@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Leticia.
 
 - 👾 Estou estudando Ciência da Computação na Universidade Federal de Jataí (UFJ)
-- 💻 Estudando Java e Python
+- 💻 Estudando Java
 - 👽 Pronomes: ela/dela
  </div>
   
