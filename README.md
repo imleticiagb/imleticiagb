@@ -1,6 +1,6 @@
-### Olá! Eu sou a Leticia.
+### Olá! Eu sou a Leticia :D
 
-- 👾 Estou estudando Ciência da Computação na Universidade Federal de Jataí (UFJ)
+- 👾 Estou estudando o último período de Ciência da Computação na Universidade Federal de Jataí (UFJ)
 - 👽 Pesquisando nas áreas de Redes de Petri e IA
 - 💻 Estudando QA
  </div>
