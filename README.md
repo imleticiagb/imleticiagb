@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Leticia :D
 
-- 👾 Estou estudando o último período de Ciência da Computação na Universidade Federal de Jataí (UFJ)
-- 👽 Pesquisando nas áreas de Redes de Petri e IA
-- 💻 Estudando QA
+- 👾 Mestranda em Ciência da Computação - UFRGS
+- 💻 [Currículo Lattes](https://lattes.cnpq.br/3477027612464951)
  </div>
   
   ##
