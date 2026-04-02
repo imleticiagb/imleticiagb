@@ -38,6 +38,8 @@ src="https://i.pinimg.com/originals/06/7c/38/067c38ee38288d81d3ea7b9b497bca90.gi
  
 <div> 
 
+ ### Skills Técnicas:
+ <div> 
 <img align="center" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img align="center" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img align="center" height="30" width="40"          
