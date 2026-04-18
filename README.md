@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"><br>
   
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=imleticiagb&show_icons=true&theme=dark)
+![imleticiagb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imleticiagb&theme=jolly&hide_border=true)
 <img align="right" alt="Let-gif" height="200" width="200" style="border-radius:80px;"
 src="https://i.pinimg.com/originals/06/7c/38/067c38ee38288d81d3ea7b9b497bca90.gif">
  
@@ -20,8 +20,16 @@ src="https://i.pinimg.com/originals/06/7c/38/067c38ee38288d81d3ea7b9b497bca90.gi
  
 <div> 
  
+![imleticiagb's Stats](https://github-readme-stats.vercel.app/api?username=imleticiagb&theme=jolly&show_icons=true&hide_border=true&count_private=true) 
+
+          
+ </div>
+
+  ##
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imleticiagb)](https://github.com/imleticiagb/github-readme-stats)
+<div> 
+ 
+ ![imleticiagb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imleticiagb&theme=jolly&show_icons=true&hide_border=true&layout=compact) 
 
           
  </div>
