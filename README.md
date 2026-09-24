@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Leticia :D
 
 * 👾 Mestranda em Ciência da Computação - UFRGS
-* 💻 Desenvolvedora BackEnd
+* 💻 Pesquisadora & Cientista
 * 📖 [Currículo Lattes](https://lattes.cnpq.br/3477027612464951)
 
 ##
